@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "Comprehensive task management system with time tracking, Pomodoro timer, focus sessions, and backend sync. Integrates seamlessly with Obsidian's markdown structure.",
 	"author": "Tejas",
-	"authorUrl": "",
+	"authorUrl": "https://github.com/tejas-hosamani",
 	"fundingUrl": "",
 	"isDesktopOnly": false
 }
