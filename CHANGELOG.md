@@ -1,3 +1,3 @@
-## v1.0.0
+## v1.0.2
 
-- chore(ci): bump version to 1.0.0 [skip ci]
+- chore(ci): bump version to 1.0.2 [skip ci]

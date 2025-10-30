@@ -6,5 +6,6 @@
 	"author": "Tejas",
 	"authorUrl": "https://github.com/tejas-hosamani",
 	"fundingUrl": "",
-	"isDesktopOnly": false
+	"isDesktopOnly": false,
+	"version": "1.0.2"
 }
