@@ -1,3 +1,3 @@
-## v1.0.1
+## v1.0.0
 
-- Merge 456c0ab2ac4e2dfc81a12731c5e5798c7c4d906f into 6e79b4948f04db163cf3510d2f9e79fc6a21b1b0
+- chore(ci): bump version to 1.0.0 [skip ci]
