@@ -1,11 +1,11 @@
 {
-	"id": "zenny-task-manager",
-	"name": "Zenny Task Manager",
-	"minAppVersion": "0.15.0",
-	"description": "Comprehensive task management system with time tracking, Pomodoro timer, focus sessions, and backend sync. Integrates seamlessly with Obsidian's markdown structure.",
-	"author": "Tejas",
-	"authorUrl": "https://github.com/tejas-hosamani",
-	"fundingUrl": "",
-	"isDesktopOnly": false,
-	"version": "1.0.2"
+  "id": "zenny-task-manager",
+  "name": "Zenny Task Manager",
+  "minAppVersion": "0.15.0",
+  "description": "Comprehensive task management system with time tracking, Pomodoro timer, focus sessions, and backend sync. Integrates seamlessly with markdown structure.",
+  "author": "Tejas",
+  "authorUrl": "https://github.com/tejas-hosamani",
+  "fundingUrl": "",
+  "isDesktopOnly": false,
+  "version": "1.0.2"
 }
