@@ -21,7 +21,7 @@ Join the [Discord](https://discord.gg/ZESHKDr588) for updates/feature requests/i
 1. Full View:
    ![Zenny — Full View](screenshots/full-view.png)
 
-2. Natural language input:
+2. Natural language input: <br />
    ![Natural Language Input](screenshots/natural-language-input.png)
 
 3. Kanban board for managing:
